@@ -4,7 +4,7 @@
 
 
 > ### Frontend Link
-> [Click Here](https://github.com/Mwapsam/Hello-rails-frontend/pull/1)
+> [Click Here](https://github.com/Mwapsam/Hello-rails-frontend)
 
 ## Built With
 
@@ -51,11 +51,6 @@ rubocop -A
 rails s
 ```
 
-### Tests
-```
-rspec spec (run all tests)
-rspec spec/name_of_folder/name_of_file.rb (run specific tests)
-```
 ### Author
 
 ## 👤 Mwape Samuel
